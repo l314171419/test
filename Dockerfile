@@ -1,5 +1,5 @@
 FROM centos
-MAINTAINER Lv "123@qq.com"
+MAINTAINER Lv "314171419@qq.com"
 RUN yum -y install epel-release
 RUN yum -y install nginx
 RUN yum clean all
